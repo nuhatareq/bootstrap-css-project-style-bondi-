@@ -7,6 +7,10 @@ import { fa2 } from '@fortawesome/free-solid-svg-icons';
 import { fa3 } from '@fortawesome/free-solid-svg-icons';
 import { faChargingStation } from '@fortawesome/free-solid-svg-icons';
 import { faDisplay } from '@fortawesome/free-solid-svg-icons';
+import { faFacebook } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 @Component({
   selector: 'app-root',
@@ -23,4 +27,8 @@ export class AppComponent {
   fa3 = fa3;
   faChargingStation = faChargingStation;
   faDisplay = faDisplay;
+  faFacebook = faFacebook;
+  faLinkedin = faLinkedin;
+  faTwitter = faTwitter;
+  faYoutube = faYoutube;
 }

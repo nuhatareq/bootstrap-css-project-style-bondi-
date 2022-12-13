@@ -157,3 +157,25 @@
     color: white;
 }
 /* end subscribe */
+/* start footer */
+.footer fa-icon{
+    width: 20px;
+    height: 20px;
+}
+.footer fa-icon.facebook {
+    background-color: rgb(62, 62, 230);
+    color: white;
+}
+.footer fa-icon.linkedin {
+    background-color: rgb(26, 26, 119);
+        color: white;
+}
+.footer fa-icon.twitter {
+    background-color: rgb(57, 205, 250);
+        color: white;
+}
+.footer fa-icon.youtube {
+    background-color: rgb(233, 32, 32);
+        color: white;
+}
+/* end footer */
